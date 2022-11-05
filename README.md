@@ -8,6 +8,45 @@ I could hear the signal very low on the left headphone which gave me hope that t
 
 With the help of the service manual I was able to identify IC103 as the DAC chip and PINs 6 and 11 to be the primary analog output pins. So I build the following simple stereo amplifier in order to connect the machine to other audio devices, in my case my mixer.
 
+## Amplifier
+
+I am sure this can be done better. Feel free to make suggestions for a better amp.
+
 ![Stereo Amplifier](amplifier/circuit.png)
+
+## Modifications
+
+I attached the Amplifier to Pins 11 and 6 of the DAC IC103 which provide the left (11) and right (6) analog audio channels.
+
+![ataching to DAC](photos/IC103.jpeg)
+
+Analyzing the original circuit diagram of the DR-550MKII I identified the capacitor C101 as the perfect spot to attach wires for stealing +9V in order to power the amplifier. 
+
+![powering the DAC](photos/C101.jpeg)
+
+## Damaging
+
+In order to get the the output out of the case I cut the axis of the original volume potentiometer. I also cut open the folio at several points.
+
+![cutting](photos/shortpoti.jpeg)
+
+## Putting it all together
+
+Eventually I removed to battery compartment completely in order to use the space for the amplifier.
+
+![cutting](photos/battcomp.jpeg)
+
+I also removed the now uselss volume knob. Instead I designed a case for a 3.5mm jack fitting perfectly where the former volume knob was.
+
+
+
+
+
+
+
+
+
+
+
 
 
