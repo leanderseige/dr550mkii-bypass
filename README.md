@@ -40,9 +40,7 @@ I also removed the now uselss volume knob. Instead I designed a case for a 3.5mm
 
 ![cutting](photos/new.jpg)
 
-
-
-
+The 3D model is pre-rotated for optimal printing.
 
 
 
