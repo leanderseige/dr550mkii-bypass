@@ -34,10 +34,11 @@ In order to get the the output out of the case I cut the axis of the original vo
 
 Eventually I removed to battery compartment completely in order to use the space for the amplifier.
 
-![cutting](photos/battcomp.jpeg)
+![cutting](photos/battcomp.jpg)
 
 I also removed the now uselss volume knob. Instead I designed a case for a 3.5mm jack fitting perfectly where the former volume knob was.
 
+![cutting](photos/new.jpg)
 
 
 
