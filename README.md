@@ -6,6 +6,8 @@ I got one of those defective DR-550 MKII with extremely low and noisy signal on 
 
 I could hear the signal very low on the left headphone which gave me hope that the entire digital part of the machine would be ok and that just the analog output amplifiers would be the problem. I was not able to find any visual indications of faulty components. Capacitors and everything else looked good. So the next idea was to find the output pins of the digital-analog converter (DAC) to see if there was actually a proper analog signal produced.
 
-With the help of the service manual I was able to identify IC103 as the DAC chip and PINs 6 and 11 to be the primary analog output pins.
+With the help of the service manual I was able to identify IC103 as the DAC chip and PINs 6 and 11 to be the primary analog output pins. So I build the following simple stereo amplifier in order to connect the machine to other audio devices, in my case my mixer.
+
+![Stereo Amplifier](amplifier/circuit.png)
 
 
