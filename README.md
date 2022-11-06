@@ -14,6 +14,8 @@ Warning! Your device may suffer from a different problem and imitating the follo
 
 I experimented with different values for the components and this was the first attempt delivering a usable signal to my audio mixer. I am sure this can be done better. Feel free to make suggestions for a better amp.
 
+The stereo panorama seemed not to be right in the middle, maybe I should have searched components for both channels which match each other as good as possible. I intend using the left (mono) channel in most cases anyway so this is no big thing at all. Turning the pan knob a little doesn't hurt either.
+
 ![Stereo Amplifier](amplifier/circuit.png)
 
 ## Modifications
