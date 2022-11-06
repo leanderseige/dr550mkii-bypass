@@ -1,6 +1,6 @@
 # Fixing Dr.Rhythm DR-550 MKII 
 
-**WARNING!** This is the documentation of how I fixed my DR-550 MKII. This is not a tutorial and this is not a recommendation. Trying to fix your machine this way may lead to irreparable and ultimate damage. It definetly would modify it irreversible. Please note that opening and modifying your device is on YOUR OWN RISK AND RESPONSIBILITY.
+**WARNING!** This is the documentation of how I fixed my DR-550 MKII. This is not a tutorial and this is not a recommendation. Trying to fix your machine this way may lead to irreparable and ultimate damage. It definetly would modify it irreversible. Please note that opening and modifying your device is on YOUR OWN RISK AND RESPONSIBILITY. And by the way, your machine may have another defect than mine.
 
 I got one of those defective DR-550 MKII with extremely low and noisy signal on the outputs. And I couldn't find any documentation on how to fix it. But it was a huge help to find the "service notes" manual online, including the circuit diagram of the entire machine here: https://www.synthxl.com/boss-dr-550-mkii/ (PDF: https://www.synthxl.com/wp-content/uploads/2020/03/Boss-DR-550-MKII-Service-Notes.pdf)
 
