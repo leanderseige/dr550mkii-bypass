@@ -24,6 +24,8 @@ I attached the Amplifier to Pins 11 and 6 of the DAC IC103 which provide the lef
 
 Analyzing the original circuit diagram of the DR-550MKII I identified the capacitor C101 as the perfect spot to attach wires for stealing +9V in order to power the amplifier. 
 
+(Left: top side, Right: bottom side with wires attached)
+
 ![powering the DAC](photos/C101.jpeg)
 
 ## Damaging
