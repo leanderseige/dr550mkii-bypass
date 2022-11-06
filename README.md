@@ -30,13 +30,13 @@ Analyzing the original circuit diagram of the DR-550MKII I identified the capaci
 
 ## Damaging
 
-In order to get the output out of the case I cut the axis of the original volume potentiometer. I also cut open the folio at several points.
+In order to get the output out of the case I cut the axis of the original volume potentiometer. I also cut open the foil several times.
 
 ![cutting](photos/shortpoti.jpeg)
 
 ## Putting it all together
 
-Eventually I removed the battery compartment completely in order to use the space for the amplifier.
+Eventually I removed the battery compartment completely in order to use the space for the amplifier. Attention: the outer layer of the foil conducts electricity! I had to isolate the amplifier using bubble wrap.
 
 ![cutting](photos/battcomp.jpg)
 
