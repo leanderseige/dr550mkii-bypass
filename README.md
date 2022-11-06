@@ -12,19 +12,17 @@ Warning! Your device may suffer from a different problem and imitating the follo
 
 ## Amplifier
 
-I experimented with different values for the components and this was the first attempt delivering a usable signal to my audio mixer. I am sure this can be done better. Feel free to make suggestions for a better amp.
-
-The stereo panorama seemed not to be right in the middle, maybe I should have searched components for both channels which match each other as good as possible. I intend using the left (mono) channel in most cases anyway so this is no big thing at all. Turning the pan knob a little doesn't hurt either.
+I decided to use a very simple one-transistor amplifier just to see if my plan would work at all. I experimented with different values for the components and this was the first attempt delivering a usable signal to my audio mixer. I am sure this can be done better. Feel free to make suggestions for a better amp. The stereo panorama seemed not to be right in the middle, maybe I should have searched components for both channels which match each other as good as possible. I intend using the left (mono) channel in most cases anyway so this is no big thing at all. Turning the pan knob a little doesn't hurt either.
 
 ![Stereo Amplifier](amplifier/circuit.png)
 
 ## Modifications
 
-I attached the Amplifier to Pins 11 and 6 of the DAC IC103 which provide the left (11) and right (6) analog audio channels.
+I attached the amplifier to Pins 11 and 6 of the DAC IC103 which provide the left (11) and right (6) analog audio channels.
 
 ![ataching to DAC](photos/IC103.jpeg)
 
-Analyzing the original circuit diagram of the DR-550MKII I identified the capacitor C101 as the perfect spot to attach wires for stealing +9V in order to power the amplifier. 
+Analyzing the original circuit diagram of the DR-550MKII -- I identified the capacitor C101 as the perfect spot to attach wires for stealing +9V in order to power the amplifier. 
 
 (Left: top side, Right: bottom side with wires attached)
 
