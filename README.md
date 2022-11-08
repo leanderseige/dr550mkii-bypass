@@ -2,7 +2,7 @@
 
 This is the documentation of how I fixed my DR-550 MKII. This is not a tutorial and this is not a recommendation. **WARNING! Trying to fix your machine this way may lead to irreparable and ultimate damage. It definetly would modify it irreversible. Please note that opening and modifying your device is on YOUR OWN RISK AND RESPONSIBILITY.**  And by the way, your machine may have another defect than mine.
 
-I have one of those defective BOSS DR-550 MKII with extremely low and noisy signal on the outputs. And I couldn't find any documentation on how to fix it. But it was a huge help to find the "service notes" manual online, including the circuit diagram of the entire machine here: https://www.synthxl.com/boss-dr-550-mkii/ (PDF: https://www.synthxl.com/wp-content/uploads/2020/03/Boss-DR-550-MKII-Service-Notes.pdf)
+I have one of those broken BOSS DR-550 MKII with extremely low and noisy signal on the outputs. And I couldn't find any documentation on how to fix it. But it was a huge help to find the "service notes" manual online, including the circuit diagram of the entire machine here: https://www.synthxl.com/boss-dr-550-mkii/ (PDF: https://www.synthxl.com/wp-content/uploads/2020/03/Boss-DR-550-MKII-Service-Notes.pdf)
 
 I could hear the signal very low on the left headphone which gave me hope that the entire digital part of the machine would be ok and that just the analog output amplifiers would be the problem. I was not able to find any visual indications of faulty components. Capacitors and everything else looked good. So the next idea was to find the output pins of the digital-analog converter (DAC) to see if there was actually a proper analog signal produced.
 
